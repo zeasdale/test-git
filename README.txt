@@ -8,3 +8,5 @@ Git test stage
 Git test branch dev
 Creating a new branch is quick AND simple.
 
+git test
+
