@@ -6,4 +6,5 @@ Git test commit
 Git test stage
 
 Git test branch dev
-Creating a new branch is quick & simple.
+Creating a new branch is quick AND simple.
+
